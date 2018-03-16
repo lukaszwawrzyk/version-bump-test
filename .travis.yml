@@ -4,4 +4,4 @@ sudo: required
 dist: trusty
 jdk:
   - oraclejdk8
-script: ./sbt run
+script: sbt run
